@@ -8,3 +8,6 @@
 
 Projeto desenvolvido para a empresa Ingous, focado no setor de Recursos Humanos. O processo de ETL foi feito no Excel, desde o recebimento ao tratamento dos dados, 
 os dados tratados são transferidos ao Power BI para a criação da Dashboard. O objetivo é fornecer insights das métricas e dados demográficos relevantes sobre contratações e distribuição salarial na empresa.
+
+<h2>Acesso ao Projeto :open_file_folder:</h2>
+Você pode acessar o resultado do projeto <a href="https://app.powerbi.com/view?r=eyJrIjoiMzhjZmYyODgtMDE2NS00MzBjLThiYWQtMTg0YThhNzI0ZTEzIiwidCI6ImFlNzg1M2E2LWI5NjEtNDBhNS04MDQxLTBmMzNjZGJkZGRiYyJ9&pageName=ReportSection">aqui</a>.
